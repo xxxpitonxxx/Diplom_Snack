@@ -52,7 +52,7 @@
 <?php
 
 
-include 'dbconnect.php';
+include 'dbconnect1.php';
 // Проверка формы на пустоту
 if (!empty($_POST['message'])) {
     // Подключение к базе данных
